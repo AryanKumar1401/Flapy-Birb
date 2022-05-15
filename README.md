@@ -4,6 +4,6 @@ Remember the agony you had to go undergo to proceed through each Flappy Bird lev
 
 
 # Instructions
-Simply run **flapy_birb.py** and watch an AI start training itself to play the game of flappy bird!
+Simply run **flapy_birb.py** and watch an AI start training itself to play the game of flappy bird. 
 
 
